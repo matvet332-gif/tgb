@@ -1,0 +1,12 @@
+language = "python3"
+run = "python main.py"
+
+[packager]
+language = "python3"
+
+[packages]
+python-telegram-bot = "*"
+flask = "*"
+
+[unitTest]
+language = "python3"
